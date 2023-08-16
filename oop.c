@@ -1,7 +1,7 @@
 /*
  * @Author: Dragon
  * @Date: 2023-08-11 16:52:52
- * @LastEditTime: 2023-08-15 15:12:51
+ * @LastEditTime: 2023-08-16 10:01:47
  * @FilePath: \oop\oop.c
  * @Description:C语言面向对象尝试
  * @Wearing:  Read only, do not modify place!!!
@@ -12,7 +12,7 @@
 #include <malloc.h>
 #include <assert.h>
 #include <string.h>
-// 使用了新github账号 重新上传
+// 使用了新github账号 重新上传 修改
 typedef struct Animal Animal; // 声明一个类
 typedef struct Animal         // 定义类的属性和方法
 {
